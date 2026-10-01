@@ -2,7 +2,7 @@
   
   ### `madhu` /mʌdhu/
   
-  <sup><i>19 •solving problems, occasionally creating them • cybersecurity and ai</i></sup>
+  <sup><i>19 • turning caffeine into questionable engineering decisions • ai & cybersecurity</i></sup>
   
 </div>
 
