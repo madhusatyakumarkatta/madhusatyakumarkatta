@@ -2,7 +2,7 @@
   
   ### `madhu` /mʌdhu/
   
-  <sup><i>19 • turning caffeine into questionable engineering decisions • ai & cybersecurity</i></sup>
+  <sup><i>19 • turning caffeine into questionable engineering decisions • AI & cybersecurity</i></sup>
   
 </div>
 
