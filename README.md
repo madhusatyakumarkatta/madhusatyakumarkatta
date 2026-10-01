@@ -7,7 +7,7 @@
 </div>
 
 <samp>
-/ <a href="https://mavisdoing.vercel.app/">mavisdoing.vercel.app</a>
+/ <a href="https://mavisdoing.vercel.app/">mavisdoing</a>
 <br>
 / <a href="mailto:kmadhusatyakumar@gmail.com">kmadhusatyakumar@gmail.com</a>
 </samp>
